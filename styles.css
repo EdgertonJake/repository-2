@@ -1,7 +1,7 @@
 /* Navigation Bar */
 nav {
     background-color: #333;
-    color: #fff;
+    color: #8e4e4e;
     padding: 10px;
   }
   
@@ -19,6 +19,7 @@ nav {
   nav ul li a {
     color: #fff;
     text-decoration: none;
+    text-size-adjust: 100px;
   }
   
   /* Image Banner */
@@ -33,7 +34,28 @@ nav {
   }
   
   .box {
-    border: 1px solid #ccc;
+    
+    background-color: #6e5d5d;
+    border: 10px #513333;
     padding: 20px;
     margin-bottom: 20px;
+  }
+  body {
+    background-color: #8b8383;
+    
+  }
+  p {
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  h3 {
+    color: #fff;
+    font-size: 60px;
+    font-weight: bold;
+  }
+  li {
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold; 
   }
